@@ -1,3 +1,3 @@
-<img src="logo_n_bg.png" alt="HashFI Logo" width="300"/>
+<img src="logo_n_bg.png" alt="HashFI Logo" width="100"/>
 
 # HashFi 
