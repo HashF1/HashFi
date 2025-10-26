@@ -43,6 +43,9 @@ HashFi combines **Web3**, **DeFi analytics**, and **Hedera Hashgraph** technolog
   3.Run the frontend
   
     npm run dev
+
+
+
     
 # Configuration
 
