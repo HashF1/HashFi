@@ -44,7 +44,7 @@ This **cost efficiency**, combined with **ABFT security and finality**, allows H
 
 
 
-# Getting Started 
+# Deployment & Setup Instructions
 
 **Installation**
 
@@ -56,8 +56,18 @@ This **cost efficiency**, combined with **ABFT security and finality**, allows H
   2.Install dependencies:
   
     npm install
+
+  3.Configure Environment Variables
+  
+  Create a .env file
+
+    VITE_HEDERA_ACCOUNT_ID=0.0.xxxxxx
+    VITE_HEDERA_PRIVATE_KEY=...
+    VITE_CONTRACT_ID=0.0.xxxxxx
     
-  3.Run the frontend
+    
+  
+  4.Run the frontend
   
     npm run dev
 
