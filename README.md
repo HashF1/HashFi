@@ -32,30 +32,17 @@ We chose HSCS because it provides:
  
 The HashFi frontend and backend use **Mirror Node APIs** to fetch **verified on-chain data** for display and analytics.
 We chose Mirror Nodes because they offer:
-# Features
-🔹**On-chain reputation score** : Evaluates user wallets based on activity, consistency, and risk.
-
-🔹**Yield Passport for wallets & protocols** : A DeFi trust identity that can be used across protocols.
-
-🔹**Transparent scoring (0–1000)** : Combines behavioral, financial, and risk data.
-
-🔹**Built on Hedera** : Fast, secure, and low-fee blockchain network.
-
-🔹**Interoperable Design** : The system architecture can be extended to other blockchains.
 
 
-# Tech Stack
-HashFi combines **Web3**, **DeFi analytics**, and **Hedera Hashgraph** technologies.
+# Economic Justification
 
-▹**Hedera Hashgraph** : High-speed, low-fee DLT used for score recording and validation.
+Hedera’s **low, predictable transaction fees** and **high throughput** make it ideal for large-scale adoption in Africa and other emerging markets.
 
-▹**Smart Contracts** : Core logic for the Yield Passport and reputation scoring. 
+Each update or query of a user’s reputation score costs **less than $0.001**, ensuring that the system remains affordable and scalable.
 
-▹**React.js** : Fast UI layer for interaction with on-chain data.
+This **cost efficiency**, combined with **ABFT security and finality**, allows HashFi to maintain financial sustainability while delivering reliable on-chain data for millions of potential users.
 
-▹**HashConnect + Ethers.js** : Wallet connection and smart contract communication.
 
-▹**Recharts / Chart.js** : Data representation of wallet and score analytics.
 
 # Getting Started 
 
