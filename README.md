@@ -72,9 +72,6 @@ This **cost efficiency**, combined with **ABFT security and finality**, allows H
     npm run dev
 
 
-# Architecture Diagram
-
-  <img src="architecture_diagram.png" alt="Diagram" width="1080" class="center"/>  
   
 # Configuration
 
@@ -84,7 +81,9 @@ Create a **.env** file in the project root:
     VITE_CONTRACT_ADDRESS=0x12...
     VITE_API_KEY=...
 
+# Architecture Diagram
 
+  <img src="architecture_diagram.png" alt="Diagram" width="1080" class="center"/>  
 
 
 # Links & Resources
