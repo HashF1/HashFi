@@ -70,7 +70,8 @@ This **cost efficiency**, combined with **ABFT security and finality**, allows H
   4.Run the frontend
   
     npm run dev
-
+    
+  localhost:3000
 
   
 # Configuration
