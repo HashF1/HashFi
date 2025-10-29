@@ -72,8 +72,10 @@ This **cost efficiency**, combined with **ABFT security and finality**, allows H
     npm run dev
 
 
+# Architecture Diagram
 
-    
+  <img src="architecture_diagram.png" alt="Diagram" width="1080" class="center"/>  
+  
 # Configuration
 
 Create a **.env** file in the project root:
