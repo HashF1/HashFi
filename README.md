@@ -92,4 +92,4 @@ Web Link:[https://v0-help-with-vercel-rho-red.vercel.app/]
 
 Demo Video:[https://www.youtube.com/watch?v=WW93X8prpvE]
 
-Pitch Deck:[https://drive.google.com/file/d/1oF35cmGQYrkG4zCnY5GuTXxxQC1zzhA1/view]
+Pitch Deck:[https://drive.google.com/file/d/1wu2iNpRHnJ5Xxrp1KlcTWqJ9E6u-vm6o/view]
