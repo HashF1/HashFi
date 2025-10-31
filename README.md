@@ -6,7 +6,7 @@
 HashFi is a decentralized **on-chain reputation protocol** built on Hedera Hashgraph. It introduces the **Yield Passport**, a smart reputation score that helps users and protocols build trust in DeFi by combining behavioral, financial, and risk-based metrics.
 
 # Hedera Integration Summary
-**1- Hedera Smart Contracts (HSCS)**
+🔵**Hedera Smart Contracts (HSCS)**
 
 We deployed the core logic of HashFi as a **Solidity smart contract** on **Hedera Smart Contract Service (HSCS).**
 This enables **transparent**, **immutable**, and **verifiable** reputation scoring directly on-chain.
@@ -28,7 +28,7 @@ We chose HSCS because it provides:
   • ContractCallQuery :Retrieve and display scores in the frontend dashboard.
 
 
- **2- Hedera Mirror Nodes**
+ 🔵**Hedera Mirror Nodes**
  
 The HashFi frontend and backend use **Mirror Node APIs** to fetch **verified on-chain data** for display and analytics.
 We chose Mirror Nodes because they offer:
