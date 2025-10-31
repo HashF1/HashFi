@@ -19,13 +19,13 @@ We chose HSCS because it provides:
 
 • **EVM compatibility**, allowing us to reuse familiar Solidity tools and libraries.
 
-**Transaction Types Executed:**
+🔵**Transaction Types Executed:**
 
-  • ContractCreateTransaction :Deploy the main HashFi smart contract.
+  • ***ContractCreateTransaction*** :Deploy the main HashFi smart contract.
 
-  • ContractExecuteTransaction :Update or calculate user reputation scores.
+  • ***ContractExecuteTransaction*** :Update or calculate user reputation scores.
 
-  • ContractCallQuery :Retrieve and display scores in the frontend dashboard.
+  • ***ContractCallQuery*** :Retrieve and display scores in the frontend dashboard.
 
 
  🔵**Hedera Mirror Nodes**
